@@ -10,6 +10,10 @@
   <a href="https://github.com/ywildan?tab=repositories">Projects</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ywildan&label=Profile%20views&color=6b7280&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## About
