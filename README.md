@@ -36,6 +36,12 @@ The product is developed through a specification-led, automation-driven workflow
 
 Product engineering · Full-stack development · API and data modeling · Workflow automation · System architecture
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ywildan&show_icons=true&hide_border=true&bg_color=00000000&title_color=374151&text_color=6b7280&icon_color=6b7280" alt="Yusuf's GitHub statistics" />
+</p>
+
 ## Connect
 
 I'm open to thoughtful collaborations and conversations about building useful software. Reach me on [LinkedIn](https://linkedin.com/in/yusufwildan) or explore my work through the [repositories](https://github.com/ywildan?tab=repositories) on this profile.
