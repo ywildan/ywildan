@@ -39,7 +39,7 @@ Product engineering · Full-stack development · API and data modeling · Workfl
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ywildan&show_icons=true&hide_border=true&bg_color=00000000&title_color=374151&text_color=6b7280&icon_color=6b7280" alt="Yusuf's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ywildan&theme=github" alt="Yusuf's GitHub activity" width="100%" />
 </p>
 
 ## Connect
