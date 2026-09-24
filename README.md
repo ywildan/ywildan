@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yusufwildan">LinkedIn</a> ·
-  <a href="https://yusufwildan.vercel.app">Portfolio</a> ·
+  <a href="https://ywildan.vercel.app/">Portfolio</a> ·
   <a href="https://github.com/ywildan?tab=repositories">Projects</a>
 </p>
 
